@@ -1,8 +1,8 @@
-- 👋 Olá, sou @Fernandosnz
-- 👀 Estou interessado em ser um Desenvolvedor FullStack  
-- 🌱 Atualmente estou aprendendo sobre banco de dados e todo o mundo de desenvolvimento.. ah! estou aprendendo inglês também! 
-- 💞️ Procuro colaborar em ajudar o time no que precisar..
-- 📫 Como entrar em contato comigo : https://www.linkedin.com/in/fernando-nascimento-26766928a/
+- 👋 Hi, I'm @Fernandosnz
+- 👀 I'm interested in being a FullStack Developer
+- 🌱 I'm currently learning about databases and the whole world of development.. ha! I'm learning English too!
+- 💞️I try to collaborate by helping the team with whatever is needed..
+- 📫 How to contact me: https://www.linkedin.com/in/fernando-nascimento-26766928a/
 
 
 <!---
