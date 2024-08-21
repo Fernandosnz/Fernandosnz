@@ -1,8 +1,13 @@
-- 👋 Hi, I'm @Fernandosnz
-- 👀 I'm interested in being a FullStack Developer
-- 🌱 I'm currently learning about databases and the whole world of development.. ha! I'm learning English too!
-- 💞️I try to collaborate by helping the team with whatever is needed..
-- 📫 How to contact me: https://www.linkedin.com/in/fernando-nascimento-26766928a/
+Sou estudante do 3º semestre de Análise e Desenvolvimento de Sistemas no Senac São Paulo,
+com grande entusiasmo para construir uma carreira em desenvolvimento de software. Tenho uma
+sólida base em linguagens de programação como Java, JavaScript e C#, além de conhecimentos
+em HTML, CSS e frameworks de front-end e back-end. Desenvolvi projetos acadêmicos em
+aplicações Web, com foco em soluções práticas e inovadoras. Possuo também experiência em
+suporte técnico e manutenção de sistemas, o que me proporcionou habilidades para atuar tanto na
+programação quanto na parte operacional de TI. Busco desafios que me permitam crescer e
+aprimorar meus conhecimentos na área de tecnologia.
+
+Entre em contato -> https://www.linkedin.com/in/feesnz/
 
 
 <!---
